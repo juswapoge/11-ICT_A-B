@@ -1,0 +1,44 @@
+body{
+  font-family: Fantasy;
+  font-size: 20px;
+  background: black;
+  color: whitesmoke;
+  
+}
+
+h1{
+  color: white;
+}
+
+.info1{
+  border-radius: 20px;
+  padding: 20px;
+  background-color: #101010;
+ 
+}
+
+.info2{
+  border-radius: 20px;
+  padding: 20px;
+  background-color: #101010;
+  
+  
+}
+
+.info3{
+  border-radius: 20px;
+  padding: 20px;
+  background-color: #101010;
+}
+
+.info4{
+  border-radius: 20px;
+  padding: 20px;
+  background-color: #101010;
+}
+
+.info5{
+  border-radius: 20px;
+  padding: 20px;
+  background-color: #101010;
+}
